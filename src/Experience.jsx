@@ -37,7 +37,7 @@ export default function Experience() {
           bevelOffset={0}
           bevelSegments={5}
         >
-          Roon Studio
+          Zara Maam
           <meshMatcapMaterial matcap={matcapTexture} />
         </Text3D>
       </Center>
